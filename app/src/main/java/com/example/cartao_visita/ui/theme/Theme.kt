@@ -13,7 +13,7 @@ import androidx.compose.ui.text.font.FontWeight
 private val LightColorPalette = lightColorScheme(
     primary = Color(0xFF006B3F),
     secondary = Color(0xFF009B77),
-    background = Color(0xFF8B8787),
+    background = Color(0xFFFAFAFA),
     surface = Color(0xFFFFFFFF),
     onPrimary = Color.White,
     onSecondary = Color.Black,
